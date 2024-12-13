@@ -45,4 +45,4 @@ O modo de avaliação utilizado no projeto foi importado da pasta `evaluation`, 
 
 ## Agradecimentos
 
-Gostaria de expressar minha gratidão especial à empresa [Murabei Data Science](https://www.murabei.com/) pelo apoio contínuo ao longo deste projeto. A empresa também disponibilizou o conteúdo da pasta `packages`, que foi fundamental para estilizar e tornar mais profissionais os gráficos apresentados neste trabalho.
+Gostaria de expressar minha gratidão especial à empresa [Murabei Data Science](https://www.murabei.com/) pelo apoio contínuo ao longo deste projeto. 
